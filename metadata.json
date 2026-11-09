@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Forest - Doctor-Led Forest Sanctuary Trichy",
+  "description": "A doctor-founded 7-year living forest sanctuary in Archampatti & Panjappur, Trichy. 35 handpicked medicinal trees and ~10,000 sq.ft. eco-living plots for preventative health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
